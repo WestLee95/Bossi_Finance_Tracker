@@ -1,3 +1,4 @@
+'use client'
 import React, { useState } from 'react';
 import { 
   TrendingUp, LogOut, Plus, Calendar, DollarSign, 
