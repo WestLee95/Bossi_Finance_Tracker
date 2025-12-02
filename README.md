@@ -66,6 +66,3 @@ If you plan to contribute:
 2. Create a feature branch (`git checkout -b feature/YourFeature`)
 3. Commit your changes
 4. Push to your branch and open a Pull Request
-
-::contentReference[oaicite:1]{index=1}
-```
