@@ -6,7 +6,7 @@ Born from a frontend developer’s desire for a clean, minimal, and secure perso
 ## 🚀 Demo
 
 Live version: [bossi-finance-tracker.vercel.app](https://bossi-finance-tracker.vercel.app)  
-*(If deployed — replace link accordingly)*
+
 
 ## 📦 Tech Stack & Key Tools
 
